@@ -1,6 +1,6 @@
-#Temperature converter using file input
-#input : celsius number inside DAT file
-#output : Fahrenheit number
+#Temperature converter using input file
+#input : Celsiusnumber from input file
+#output : Fahrenheit equivalent number in console
 
 
 puts "Reading Celsius temperature value from data file..."

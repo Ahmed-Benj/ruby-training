@@ -1,6 +1,6 @@
 #Interactive temperature converter 
-#input : celsius number
-#output : Fahrenheit number
+#input : celsius number from console
+#output : Fahrenheit equivalent number in console
 
 
 #METHOD_1
